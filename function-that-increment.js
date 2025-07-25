@@ -8,4 +8,5 @@ lapsCom()
 lapsCom()
 lapsCom()
 
+
 console.log(lapsCompleted)
